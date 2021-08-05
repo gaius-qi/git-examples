@@ -1,0 +1,3 @@
+[submodule "submodule/helm-charts-examples"]
+	path = submodule/helm-charts-examples
+	url = git@github.com:gaius-qi/helm-charts-examples.git

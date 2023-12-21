@@ -1,1 +1,2 @@
-lfs/example.txt filter=lfs diff=lfs merge=lfs -text
+lfs/1g filter=lfs diff=lfs merge=lfs -text
+lfs/512m filter=lfs diff=lfs merge=lfs -text
